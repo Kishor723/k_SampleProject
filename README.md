@@ -11,6 +11,7 @@ age
 facility 
 nationality
 
+qualification
 
 finally done
 
